@@ -11,7 +11,7 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
 🌈 Updates
 ------
 - Dec 10, 2025 - Passed the Prelim II exam and advanced to PhD candidacy.
-- Dec 2, 2025 - Joined NeurIPS 2026 in San Diego.
+- Dec 2, 2025 - Joined NeurIPS 2025 in San Diego.
 - Nov 10, 2025 - Joined [CLunch](https://nlp.cis.upenn.edu/clunch.html) meeting hosted by [Penn NLP](https://nlp.cis.upenn.edu/).
 - Nov 8, 2025 - One paper has been accepted to the AAAI 2026 Main Track.
   
