@@ -20,7 +20,7 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
 🪶 Selected Publication
 ------
 [CentaurTA: A Self-Improving Human-Agents Collaboration Framework
-for Thematic Analysis](https://github.com/Tom-Owl/DanceHA/blob/main/CentaurTA.pdf) <br>
+for Thematic Analysis](https://github.com/Zhuifeng414/tom-owl/blob/master/test/CentaurTA.pdf) <br>
 **Lei Wang**, Min Huang, Eduard Dragut<br>
 Findings of ACL 2026, appearing.<br>
 
