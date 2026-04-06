@@ -10,6 +10,8 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
 
 🌈 Updates
 ------
+- Apr 6, 2026 - CentaurTA has been accepted as Findings of ACL 2026.
+- Mar 26, 2026 - Accepted Research Summer Intern Offer from Samsung
 - Dec 10, 2025 - Passed the Prelim II exam and advanced to PhD candidacy.
 - Dec 2, 2025 - Joined NeurIPS 2025 in San Diego.
 - Nov 10, 2025 - Joined [CLunch](https://nlp.cis.upenn.edu/clunch.html) meeting hosted by [Penn NLP](https://nlp.cis.upenn.edu/).
@@ -17,6 +19,11 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
   
 🪶 Selected Publication
 ------
+[CentaurTA: A Self-Improving Human-Agents Collaboration Framework
+for Thematic Analysis](https://github.com/Tom-Owl/DanceHA/blob/main/CentaurTA.pdf) <br>
+**Lei Wang**, Min Huang, Eduard Dragut<br>
+Findings of ACL 2026, appearing.<br>
+
 A Multi-Task Multi-Agent Framework for Meme Understanding <br>
 first-author paper<br>
 (Under Review)
