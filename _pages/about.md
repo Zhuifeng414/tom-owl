@@ -11,7 +11,8 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
 🌈 Updates
 ------
 - Apr 6, 2026 - CentaurTA has been accepted as Findings of ACL 2026.
-- Mar 26, 2026 - Accepted Research Summer Intern Offer from Samsung
+- Mar 26, 2026 - Accepted Research Summer Intern Offer from Samsung.
+- Feb 20, 2026 - Served as a reviewer for KDD 2026.
 - Dec 10, 2025 - Passed the Prelim II exam and advanced to PhD candidacy.
 - Dec 2, 2025 - Joined NeurIPS 2025 in San Diego.
 - Nov 10, 2025 - Joined [CLunch](https://nlp.cis.upenn.edu/clunch.html) meeting hosted by [Penn NLP](https://nlp.cis.upenn.edu/).
