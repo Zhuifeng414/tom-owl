@@ -10,6 +10,7 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
 
 🌈 Updates
 ------
+- Apr 17, 2026 - Joined the AIX Summit in New York.
 - Apr 6, 2026 - CentaurTA has been accepted as Findings of ACL 2026.
 - Mar 26, 2026 - Accepted Research Summer Intern Offer from Samsung.
 - Feb 20, 2026 - Served as a reviewer for KDD 2026.
