@@ -10,6 +10,11 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
 
 🌈 Updates
 ------
+- Aug 13, 2026 - Presented my intern project at Samsung Final Intern Showcase.
+- Aug 8, 2026 - Joined AASF @ Stanford.
+- Aug 1, 2026 - Joined Agentic Summit @ UC Berkerly.
+- Jul 5, 2026 - Joined ACL @ San Diego and presented my recent work CentaurTA
+- May 4, 2026 - Started my summer intern at Samsung Research America AI Center.
 - Apr 17, 2026 - Joined the AIX Summit in New York.
 - Apr 6, 2026 - CentaurTA has been accepted as Findings of ACL 2026.
 - Mar 26, 2026 - Accepted Research Summer Intern Offer from Samsung.
